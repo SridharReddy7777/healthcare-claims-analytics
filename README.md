@@ -54,3 +54,22 @@ All records are synthetic. No employer data or internal code is used.
 - Pipeline stages are currently run separately.
 - No production scheduling or incremental change processing is implemented.
 - Equal overall charges and payments do not establish that every claim is fully paid.
+
+## Dashboard Preview
+
+### Claims Overview
+Claim counts, charges, payments, service-year trends, and provider payments.
+
+![Claims overview](docs/screenshots/overview.png)
+
+### Provider Analysis
+Compare providers by total payments and claim volume.
+
+![Provider analysis](docs/screenshots/provider-analysis.png)
+
+### Claim Details
+Explore individual claims with provider and status filters.
+
+![Claim details](docs/screenshots/claim-details.png)
+
+All dashboard records are synthetic.
